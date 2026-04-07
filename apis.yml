@@ -1,7 +1,12 @@
 aid: mgm-resorts-international
-url: https://raw.githubusercontent.com/api-evangelist/mgm-resorts-international/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/mgm-resorts-international/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.mgm-resorts-international.com
+description: >-
+  MGM Resorts International is a global entertainment company with national and international
+  locations featuring best-in-class hotels and casinos, state-of-the-art meetings
+  and conference spaces, and dining and entertainment venues.
