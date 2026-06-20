@@ -7,7 +7,7 @@ description: >-
   venues. This repository captures the APIs, developer tools, and
   machine-readable API artifacts for MGM Resorts International.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Fortune 500
   - Hospitality
