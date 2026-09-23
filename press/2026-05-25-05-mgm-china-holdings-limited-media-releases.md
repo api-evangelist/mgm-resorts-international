@@ -1,7 +1,9 @@
 ---
 title: MGM China Holdings Limited - MEDIA RELEASES
 url: https://en.mgmchinaholdings.com/media-releases?item=752
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"MGM Resorts International" press release artificial intelligence'
 position: 5
 source: serpapi-google

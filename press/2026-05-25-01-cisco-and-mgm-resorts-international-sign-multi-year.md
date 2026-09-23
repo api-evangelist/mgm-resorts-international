@@ -1,7 +1,9 @@
 ---
 title: Cisco and MGM Resorts International Sign Multi-Year ...
 url: https://www.prnewswire.com/news-releases/cisco-and-mgm-resorts-international-sign-multi-year-agreement-302308801.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"MGM Resorts International" press release artificial intelligence'
 position: 1
 source: serpapi-google

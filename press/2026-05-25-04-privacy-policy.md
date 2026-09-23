@@ -1,7 +1,9 @@
 ---
 title: Privacy Policy
 url: https://www.mgmresorts.com/policies/privacy-policy.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"MGM Resorts International" press release artificial intelligence'
 position: 4
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: 'MGM Resorts cyberattack: Experts weigh in on possible ...'
 url: https://www.hoteldive.com/news/mgm-resorts-cyberattack-experts-weigh-in/693460/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"MGM Resorts International" press release artificial intelligence'
 position: 3
 source: serpapi-google
